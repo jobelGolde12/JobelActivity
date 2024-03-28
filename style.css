@@ -115,6 +115,7 @@ body{
     .container-right .name{
         left: 35%;
         position: relative;
+        
     }
 }
 @media screen and (max-width: 573px){
